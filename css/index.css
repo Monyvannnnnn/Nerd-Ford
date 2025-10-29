@@ -344,7 +344,17 @@ p{
 }
 
 .divThree .firstSec .imgSec{
-   width: 30%;
+   width: 20%;
+   height: 450px;
+   margin: 1.66%;
+   border-radius: 10px;
+   position: relative;
+   overflow: hidden;
+   transition: 0.5s;
+   
+}
+.divThree .firstSec .imgSec1{
+   width: 40%;
    height: 450px;
    margin: 1.66%;
    border-radius: 10px;
